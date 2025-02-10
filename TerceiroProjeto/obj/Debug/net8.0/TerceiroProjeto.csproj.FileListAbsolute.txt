@@ -1,0 +1,14 @@
+C:\Projetos\Logica\TerceiroProjeto\TerceiroProjeto\bin\Debug\net8.0\TerceiroProjeto.exe
+C:\Projetos\Logica\TerceiroProjeto\TerceiroProjeto\bin\Debug\net8.0\TerceiroProjeto.deps.json
+C:\Projetos\Logica\TerceiroProjeto\TerceiroProjeto\bin\Debug\net8.0\TerceiroProjeto.runtimeconfig.json
+C:\Projetos\Logica\TerceiroProjeto\TerceiroProjeto\bin\Debug\net8.0\TerceiroProjeto.dll
+C:\Projetos\Logica\TerceiroProjeto\TerceiroProjeto\bin\Debug\net8.0\TerceiroProjeto.pdb
+C:\Projetos\Logica\TerceiroProjeto\TerceiroProjeto\obj\Debug\net8.0\TerceiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Logica\TerceiroProjeto\TerceiroProjeto\obj\Debug\net8.0\TerceiroProjeto.AssemblyInfoInputs.cache
+C:\Projetos\Logica\TerceiroProjeto\TerceiroProjeto\obj\Debug\net8.0\TerceiroProjeto.AssemblyInfo.cs
+C:\Projetos\Logica\TerceiroProjeto\TerceiroProjeto\obj\Debug\net8.0\TerceiroProjeto.csproj.CoreCompileInputs.cache
+C:\Projetos\Logica\TerceiroProjeto\TerceiroProjeto\obj\Debug\net8.0\TerceiroProjeto.dll
+C:\Projetos\Logica\TerceiroProjeto\TerceiroProjeto\obj\Debug\net8.0\refint\TerceiroProjeto.dll
+C:\Projetos\Logica\TerceiroProjeto\TerceiroProjeto\obj\Debug\net8.0\TerceiroProjeto.pdb
+C:\Projetos\Logica\TerceiroProjeto\TerceiroProjeto\obj\Debug\net8.0\TerceiroProjeto.genruntimeconfig.cache
+C:\Projetos\Logica\TerceiroProjeto\TerceiroProjeto\obj\Debug\net8.0\ref\TerceiroProjeto.dll
